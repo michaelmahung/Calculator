@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{09FE4FE0-78C8-43C0-BF57-DB000FB6467E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Calculator/MainPage.xaml">
+    <Files>
+      <File FileName="Calculator/Calculator/MainPage.xaml" Line="83" Column="60" />
+      <File FileName="Calculator/Calculator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="53" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Calculator.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
